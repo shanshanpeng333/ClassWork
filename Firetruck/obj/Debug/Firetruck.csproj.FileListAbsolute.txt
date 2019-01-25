@@ -1,0 +1,15 @@
+C:\program8010\week final\Firetruck\Firetruck\bin\Debug\Firetruck.exe.config
+C:\program8010\week final\Firetruck\Firetruck\bin\Debug\Firetruck.exe
+C:\program8010\week final\Firetruck\Firetruck\bin\Debug\Firetruck.pdb
+C:\program8010\week final\Firetruck\Firetruck\obj\Debug\Firetruck.csprojAssemblyReference.cache
+C:\program8010\week final\Firetruck\Firetruck\obj\Debug\MainWindow.g.cs
+C:\program8010\week final\Firetruck\Firetruck\obj\Debug\App.g.cs
+C:\program8010\week final\Firetruck\Firetruck\obj\Debug\Firetruck_MarkupCompile.cache
+C:\program8010\week final\Firetruck\Firetruck\obj\Debug\Firetruck_MarkupCompile.lref
+C:\program8010\week final\Firetruck\Firetruck\obj\Debug\MainWindow.baml
+C:\program8010\week final\Firetruck\Firetruck\obj\Debug\Firetruck.g.resources
+C:\program8010\week final\Firetruck\Firetruck\obj\Debug\Firetruck.Properties.Resources.resources
+C:\program8010\week final\Firetruck\Firetruck\obj\Debug\Firetruck.csproj.GenerateResource.cache
+C:\program8010\week final\Firetruck\Firetruck\obj\Debug\Firetruck.csproj.CoreCompileInputs.cache
+C:\program8010\week final\Firetruck\Firetruck\obj\Debug\Firetruck.exe
+C:\program8010\week final\Firetruck\Firetruck\obj\Debug\Firetruck.pdb
